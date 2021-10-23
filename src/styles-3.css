@@ -1,0 +1,44 @@
+.container-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+.primer-name-menu{
+    margin-top: 30px;
+    font-size: 27px;
+    border-bottom: 2px solid #2d2b37;
+    width: 20%;
+    font-family: 'Karla', sans-serif;
+}
+.habilidades{
+    width: 260px;
+    display: block;
+    margin: 15px;
+    margin-left: 38px;
+    border: 1.8px solid #F8485E;
+    padding: 12px;
+    color: #fff;
+    background-color: #151414fa;
+    position: relative;
+    left: -7px;
+    border-radius: 4px;
+    height: 180px;
+}
+.parrafo-3{
+  
+    font-size: 17px;
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+    top: 12px;
+}
+.names-1{
+    font-size: 20px;
+    margin: 6px;
+    color:#F8485E;
+}
+.imagen-tree{
+    width: 30px;
+    height: 30px;
+}
